@@ -3,6 +3,11 @@
 Open `./api.sh` with your code editor.
 
 ```
+# install jq
+brew install jq
+```
+
+```
 NOTION_TOKEN=
 DATABASE_ID=
 ```
